@@ -12,6 +12,8 @@ https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blo
 
 https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/coding-for-neon---part-5-rearranging-vectors
 
+https://www.cnblogs.com/zhangshenghui/p/11825760.html
+
 You can use the [editor on GitHub](https://github.com/xiaoyanChen2021/elevoc_arm_2022_learning/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
